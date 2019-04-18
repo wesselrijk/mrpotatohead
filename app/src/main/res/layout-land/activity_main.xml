@@ -114,7 +114,7 @@
         app:rowCount="5">
 
         <CheckBox
-            android:id="@+id/eyes_cb"
+            android:id="@+id/eyesCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="false"
@@ -123,63 +123,63 @@
             android:text="Eyes" />
 
         <CheckBox
-            android:id="@+id/ears_cb"
+            android:id="@+id/earsCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Ears" />
 
         <CheckBox
-            android:id="@+id/eyebrows_cb"
+            android:id="@+id/eyebrowsCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Eyebrows" />
 
         <CheckBox
-            android:id="@+id/shoes_cb"
+            android:id="@+id/shoesCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Shoes" />
 
         <CheckBox
-            android:id="@+id/mustache_cb"
+            android:id="@+id/mustacheCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Mustache" />
 
         <CheckBox
-            android:id="@+id/glasses_cb"
+            android:id="@+id/glassesCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Glasses" />
 
         <CheckBox
-            android:id="@+id/hat_cb"
+            android:id="@+id/hatCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Hat" />
 
         <CheckBox
-            android:id="@+id/mouth_cb"
+            android:id="@+id/mouthCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Mouth" />
 
         <CheckBox
-            android:id="@+id/nose_cb"
+            android:id="@+id/noseCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Nose" />
 
         <CheckBox
-            android:id="@+id/arms_cb"
+            android:id="@+id/armsCb"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
