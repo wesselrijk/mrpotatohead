@@ -8,7 +8,7 @@ An android phone with either one of those Android versions (and most likely the 
 
 ### Testing
 When starting the app, a screen appears showing an empty potato with numerous checkboxes below it.
-![alt text](https://raw.githubusercontent.com/wesselrijk/mrpotatohead/ReadmeImages/empty.jpg)
+![](ReadmeImages/empty.jpg)
 
 ## Author
 * Me
